@@ -1,4 +1,4 @@
-appVersion: apps/v1
+appVersion: v1
 kind: Service
 metadata:
   name: nginx-service
